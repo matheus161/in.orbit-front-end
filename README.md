@@ -33,4 +33,4 @@ Este manual descreve os passos necessários para rodar o projeto localmente. Sig
 2. **Inicialiazar o projeto**
 
     ```bash
-       npm run dev
+    npm run dev
